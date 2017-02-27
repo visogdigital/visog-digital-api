@@ -1,4 +1,4 @@
-package com.visog.digital.model;
+package com.visog.digital.model.user;
 /*
  * @author
  * visog

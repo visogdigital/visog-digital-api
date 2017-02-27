@@ -1,4 +1,4 @@
-package com.visog.digital.controller;
+package com.visog.digital.controller.user;
 
 import java.io.IOException;
 import java.io.PrintWriter;
