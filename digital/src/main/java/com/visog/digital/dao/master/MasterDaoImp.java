@@ -54,7 +54,6 @@ public class MasterDaoImp implements MasterDao {
 		
 	}
 
-	@Override
 	public void deleteUser(String userId) {
 		// TODO Auto-generated method stub
 		

@@ -6,6 +6,7 @@ package com.visog.digital.model.user;
 
 public class Users {
 
+	
 	private String id;
 	private String name;
 	private String email;
@@ -44,5 +45,10 @@ public class Users {
 		this.phone_no = phone_no;
 	}
 	
+	@Override
+	public String toString() {
+		return "Users [id=" + id + ", name=" + name + ", email=" + email + ", password=" + password + ", phone_no="
+				+ phone_no + "]";
+	}
 		
 }
