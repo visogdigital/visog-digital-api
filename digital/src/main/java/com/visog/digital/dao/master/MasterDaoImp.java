@@ -61,7 +61,6 @@ public class MasterDaoImp implements MasterDao {
 
 	@Override
 	public void updateUser(Users user) {
-		// TODO Auto-generated method stub
 		
 	}
 
